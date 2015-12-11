@@ -1,0 +1,23 @@
+{
+  "name": "wxui",
+  "version": "1.0.0",
+  "description": "WEBIX UI",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webix/wxui.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webix/wxui/issues"
+  },
+  "homepage": "https://github.com/webix/wxui#readme"
+}
